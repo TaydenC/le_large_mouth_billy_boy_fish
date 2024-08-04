@@ -1,3 +1,8 @@
+2024-08-04
+* Bought ads1115 to translate the audio input into something the ardino can read
+* Bought soldering helping hands
+* Building isolated ardino test on mega2560 to make sure it works before integrating
+
 2023-08-21
 * Tried to get PC headphone output to drive old Billy speaker
 ** This doesn't work - as
